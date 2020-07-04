@@ -16,7 +16,7 @@
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
-        <ignore_price>false</ignore_price>
+        <ignore_price>true</ignore_price>
         <image/>
         <list_price>0</list_price>
         <location/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-04 16:43:09</sys_created_on>
         <sys_id>13653321db7d94108844e1bb4b96194d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Create Incident for Self Service</sys_name>
         <sys_package display_value="My Self Service" source="x_164215_my_self_s">3d3377e9db3d94108844e1bb4b9619a4</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Self Service">3d3377e9db3d94108844e1bb4b9619a4</sys_scope>
         <sys_update_name>sc_cat_item_13653321db7d94108844e1bb4b96194d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-04 16:43:28</sys_updated_on>
+        <sys_updated_on>2020-07-04 17:20:58</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
